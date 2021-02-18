@@ -48,3 +48,7 @@ function DeleteUser() {
 function ExportExcel() {
     alert("Export");
 }
+
+function Menssage() {
+    alert("New state");
+}
